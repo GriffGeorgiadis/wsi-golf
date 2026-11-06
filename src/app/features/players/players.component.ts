@@ -6,4 +6,4 @@ import { Component } from '@angular/core';
   styleUrl: './players.scss',
   templateUrl: './players.html',
 })
-export class Players {}
+export class PlayersComponent {}

@@ -2,8 +2,9 @@ import { Component } from '@angular/core';
 
 @Component({
   imports: [],
-  selector: 'app-history',
+  selector: 'history',
   styleUrl: './history.scss',
   templateUrl: './history.html',
 })
-export class History {}
+export class HistoryComponent {}
+
